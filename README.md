@@ -2,7 +2,7 @@
 BBM487 Group 2<br>
 
 Hüseyin Can Öcal - Proje Yöneticisi <br>
-Samet Ayyıldız - Sistem Analisti <br>
+Samet Ayyıldız - Sitem Analisti <br>
 Furkan Kara - Yazılım Geliştirme Uzmanı <br>
 Yusuf Gündüz - Yazılım Geliştirme Uzmanı <br>
 Ensar Köseoğlu - Tasarımcı <br>
