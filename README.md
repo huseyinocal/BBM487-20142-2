@@ -1,7 +1,7 @@
 # BBM487-20142-2
 BBM487 Group 2<br>
 
-Hüseyin Can Öcal  Proje Yöneticisi
+Hüseyin Can Öcal  Proje Yöneticisi <br>
 Samet Ayyıldız  Sitem Analisti
 Furkan Kara Yazılım Geliştirme Uzmanı
 Yusuf Gündüz  Yazılım Geliştirme Uzmanı
